@@ -23,7 +23,7 @@
 #  License: [ Default license: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)]*
 #
 # ----------------------------------------------------------------------------------------------------
-# How to cite:
+# How to cite: https://doi.org/10.5281/zenodo.6353844
 # When citing this code, please include both the code citation and the following citation for the related report component:
 Weber M., Fioletov, V., van der A, R., Coldewey-Egbers, M., Frith, S. M., Wild, J. (2021); bams_oz_zonalmean_v2_1964.pro, IDL program to produce graph in BAMS State of the Climate 2020 report: https://doi.org/10.1175/2020BAMSStateoftheClimate_Chapter8.1 
 ########################################################################
