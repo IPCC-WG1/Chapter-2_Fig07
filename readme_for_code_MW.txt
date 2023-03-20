@@ -20,10 +20,13 @@
 # - Environment required to compile and run: [environement independent]*
 #  ----------------------------------------------------------------------------------------------------
 #
-#  License: [ Default license: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)]*
+#  License: Apache 2.0
 #
 # ----------------------------------------------------------------------------------------------------
-# How to cite: https://doi.org/10.5281/zenodo.6353844
+# How to cite: 
+Gulev, S.K., P.W. Thorne, J. Ahn, F.J. Dentener, C.M. Domingues, S. Gerland, D. Gong, D.S. Kaufman, H.C. Nnamchi, J. Quaas, J.A. Rivera, S. Sathyendranath, S.L. Smith, B. Trewin, K. von Schuckmann, and R.S. Vose, 2021: Changing State of the Climate System. In Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change[Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, pp. 287–422, doi:10.1017/9781009157896.004.
+
 # When citing this code, please include both the code citation and the following citation for the related report component:
-Weber M., Fioletov, V., van der A, R., Coldewey-Egbers, M., Frith, S. M., Wild, J. (2021); bams_oz_zonalmean_v2_1964.pro, IDL program to produce graph in BAMS State of the Climate 2020 report: https://doi.org/10.1175/2020BAMSStateoftheClimate_Chapter8.1 
+- https://doi.org/10.5281/zenodo.6353844
+- Weber M., Fioletov, V., van der A, R., Coldewey-Egbers, M., Frith, S. M., Wild, J. (2021); bams_oz_zonalmean_v2_1964.pro, IDL program to produce graph in BAMS State of the Climate 2020 report: https://doi.org/10.1175/2020BAMSStateoftheClimate_Chapter8.1 
 ########################################################################
